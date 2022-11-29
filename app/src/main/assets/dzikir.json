@@ -1,0 +1,75 @@
+[
+    {
+        "message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Dzikir Setelah Sholat",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "أَسْتَغْفِرُ اللهَ الْعَظِـيْمَ الَّذِيْ لَااِلَهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ",
+				"translate" : "Aku memohon ampun kepada Allah yang maha agung , tiada Tuhan yang berhak disembah kecuali Allah, dzat yang maha hidup kekal abadi dan terus menerus mengurus makhluknya tiada henti. Dan aku bertaubat kepada-Nya.",
+                "ulang" : "3x"
+			},
+            {
+				"id" : 2,
+				"arabic" : "لَاإِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيْتُ وَهُوَ عَلَى كُلِّ شَيْئٍ قَدِيْرٌ",
+				"translate" : "Tidak ada Tuhan selain Allah. Tiada sekutu bagi-Nya. Milik-Nya lah kekuasaan dan milik-Nya lah segala pujian. Dia yang menghidupkan dan yang mematikan. Atasnya kebaikan dan Dia Maha Kuasa atas segala sesuatu.",
+                "ulang" : "3x"
+			},
+            {
+				"id" : 3,
+				"arabic" : "اَللَّهُمَّ أَجِرْنِـى مِنَ النَّارِ",
+				"translate" : "Ya Allah, lindungilah kami dari api neraka.",
+                "ulang" : "3x"
+			},
+            {
+				"id" : 4,
+				"arabic" : "اَللَّـهُمَّ اَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+				"translate" : "Ya Allah, aku mohon pertolongan agar aku selalu ingat (dzikir) kepada-Mu, bersyukur kepada-Mu, dan beribadah yang baik kepada-Mu",
+                "ulang" : "3x"
+			},
+            {
+				"id" : 5,
+				"arabic" : "اَللَّهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ وَإِلَيْكَ يَعُوْدُ السَّلاَمُ فَحَيِّنَا رَبَّنَا بِالسَّلاَمِ وَأَدْ خِلْنَ الْجَنَّةَ دَارَ السَّلاَمِ تَبَرَكْتَ رَبَّنَا وَتَعَا لَيْتَ يَاذَالْجَلاَلِ وَالْأِ كْرَامِ",
+				"translate" : "Ya Allah, Engkau adalah Zat yang mempunyai kesejahteraan dan dari-Mu kesejahteraan itu kepada-Mu akan kembali lagi segala kesejahteraan itu, Ya Tuhan kami, hidupkanlah kami dengan sejahtera. Masukanlah kami ke dalam surga kampung kesejahteraan. Engkaulah yang berkuasa memberi berkah yang banyak dan Engkaulah Yang Maha Tinggi, wahai Zat yang memiliki keagungan dan kemuliaan.",
+                "ulang" : "1x"
+			},
+            {
+				"id" : 6,
+				"arabic" : "الفاتحة",
+				"translate" : "Baca surat Al-Fatihah",
+                "ulang" : "1x"
+			},
+            {
+				"id" : 7,
+				"arabic" : "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ. بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ. اَللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَّلَانَوْمٌ، لَهُ مَافِي السَّمَاوَاتِ وَمَافِي اْلأَرْضِ مَن ذَا الَّذِيْ يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَابَيْنَ أَيْدِيْهِمْ وَمَاخَلْفَهُمْ وَلَا يُحِيْطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَآءَ، وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَاْلأَرْضَ وَلَا يَـؤدُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيْمُ",
+				"translate" : "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa’at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar.",
+                "ulang" : "1x"
+			},
+            {
+				"id" : 8,
+				"arabic" : "سُبْحَانَ ٱللَّٰهِ",
+				"translate" : "Maha suci Allah",
+                "ulang" : "33x"
+			},
+            {
+				"id" : 9,
+				"arabic" : "اَلْحَمْدُلِلَّهِ",
+				"translate" : "Segala puji bagi Allah.",
+                "ulang" : "33x"
+			},
+            {
+				"id" : 10,
+				"arabic" : "الله أَكْبَر",
+				"translate" : "Allah Maha Besar",
+                "ulang" : "33x"
+			},
+            {
+				"id" : 11,
+				"arabic" : "لآإِلَهَ إِلاَّ الله",
+				"translate" : "Tiada Tuhan Selain Allah",
+                "ulang" : "33x"
+			}
+		]
+    }
+]

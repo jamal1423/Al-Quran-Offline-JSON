@@ -1,0 +1,68 @@
+[
+	{	
+		"message": "Data has been loaded",
+		"success": "1",
+		"data": [
+			{
+				"id": 1,
+				"text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+				"translation": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang",
+				"keterangan": "Basmalah"
+			},
+			{
+				"id": 2,
+				"text": "اَلْحَمْدُ لِلهِ رَبِّ الْعَالَمِيْنَ حَمْدَ الشَّاكِرِيْنَ حَمْدَ النَّاعِمِيْنَ حَمْدًا يُوَافِي نِعَمَهُ وَ يُكَافِىءُ مَزِيْدَهُ يَا رَبَّنَا لَكَ الْحَمْدُ كَمَا يَنْبَغِيْ لِجَلَالِ وَجْهِكَ الْكَرِيْمِ وَ عَظِيْمِ سُلْطَانِكَ اَللّٰهُمَّ صَلِّ وَ سَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى اٰلِهِ وَ صَحْبِهِ اَجْمَعِيْنَ",
+				"translation": "Ya Allah ya Tuhan kami, segala puji untuk-Mu, pemelihara alam semesta. Segala puji atas karunia dan kenikmatan yang Engkau limpahkan kepada kami. Wahai Tuhanku, bagiMu segala puji sebagaimana seyogyanya, bagi kemuliaan wajah-Mu dan keagungan kekuasaan-Mu. Ya Allah, Limpahkanlah shalawat dan salam kepada junjungan kami nabi Muhammad SAW dan para sahabat-sahabatnya",
+				"keterangan": "Pujian dan Sholawat"
+			},
+			{
+				"id": 3,
+				"text": "اَللَّهُمَّ رَبَّنَا تَـقَـبَّلْ مِنَّا صَلاَتَنَا وَصِيَا مَنَا وَرُكُوْ عَنَا وَسُجُوْدَنَا وَقُعُوْدَنَا وَتَضَرُّ عَنَا وَتَخَشُّوْ عَنَا وَتَعَبُّدَنَا وَتَمِّمْ تَقْصِيْرَ نَا يَا اَلله يَا رَبَّ الْعَا لَمِيْنَ",
+				"translation": "Ya Allah, terimalah shalat kami, puasa kami, rukuk kami, sujud kami, duduk rabah kami, kerendahdirian kami, kekhusyukan kami, pengabdian kami, dan sempurnakanlah apa yang kami lakukan selama kami menunaikan shala Ya Allah, Tuhan seru sekalian alam",
+				"keterangan": "Doa Minta Diterima Sholat"
+			},
+			{
+				"id": 4,
+				"text": "اللَّهُمَّ اغْفِرْلَنَا ذُنُوْبَنَا وَ ذُنُوْبَ وَلِوَالِدِيْنَا وَارْحَمْهُمَا كَمَا رَبَّيَانَا صِغَارً اَللَّهُمَّ اغْفِرْ لِلْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ، وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ اْلأَحْيَاءِ مِنْهُمْ وَاْلأَمْوَاتِ، إِنَّكَ سَمِيْعٌ قَرِيْبٌ مُجِيْبُ الدَّعَوَاتِ",
+				"translation": "Ya Allah, ampunilah dosaku dan (dosa) kedua orangku, Serta Sayangilah Mereka Sebagaimana Mereka Menyayangiku ketika anak kecil. Ya Allah, ampunilah seluruh kaum muslimin dan kaum muslimat, kaum mukminin dan kaum mukminat, baik yang masih hidup maupun yang sudah meninggal, Sesungguhnya, Engkau adalah Dzat yang Maha Mendengar, Mahadekat, Dzat yang mengabulkan doa",
+				"keterangan": "Doa Minta Ampunan"
+			},
+			{
+				"id": 5,
+				"text": "اَللهُمَّ اِنَّا نَسْئَلُكَ سَلاَمَةً فِى الدِّيْنِ وَعَافِيَةً فِى الْجَسَدِ وَزِيَادَةً فِى الْعِلْمِ وَبَرَكَةً فِى الرِّزْقِ وَتَوْبَةً قَبْلَ الْمَوْتِ وَرَحْمَةً عِنْدَ الْمَوْتِ وَمَغْفِرَةً بَعْدَ الْمَوْتِ. اَللهُمَّ هَوِّنْ عَلَيْنَا فِىْ سَكَرَاتِ الْمَوْتِ وَالنَّجَاةَ مِنَ النَّارِ وَالْعَفْوَ عِنْدَ الْحِسَابِ ",
+				"translation": "Ya Allah, kami memohon kepada Engkau akan keselamatan agama, kesehatan badan, tambahnya pengetahuan, berkahnya rezeki, mendapatkan taubat sebelum mati, mendapat rahmat ketika mati, mendapat ampunan sesudah mati. Dan ringankanlah kiranya dalam sakaratul-maut, dan selamatkanlah kiranya dari siksaan neraka, dan dapatkanlah kami ampunan pada hari hisab (perhitungan).",
+				"keterangan": "Doa Mohon Keselamatan"
+			},
+			{
+				"id": 6,
+				"text": "اَللّٰهُمَّ إِنَّا نَسْئَلُكَ رِضَاكَ وَالْجَنَّةَ وَنَعُوْذُبِكَ مِنْ سَخَطِكَ وَالنَّارِ",
+				"translation": "Ya Allah, sesungguhnya kami memohon keridhoan-Mu dan surga, dan kami berlindung dari murka-Mu dan siksa neraka.",
+				"keterangan": "Doa Mohon Keridhoan"
+			},
+			{
+				"id": 7,
+				"text": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+				"translation": "Ya Tuhan kami, anugrahkanlah kepada kami isteri-isteri kami dan keturunan kami sebagai penyenang hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa.",
+				"keterangan": "Doa Mohon Keluarga Sakinah"
+			},
+			{
+				"id": 8,
+				"text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْهَمِّ وَالْحَزَنِ وَأَعُوذُ بِكَ مِنْ الْعَجْزِ وَالْكَسَلِ وَأَعُوذُ بِكَ مِنْ الْجُبْنِ وَالْبُخْلِ وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+				"translation": "Ya Allah, sesungguhnya aku berlindung kepada Engkau dari kebingungan dan kesedihan. Aku berlindung kepadaMu dari ketidak berdayaan dan kemalasan. Aku berlindung kepadaMu dari kepengengecutan dan kekikiran. Aku berlindung kepadaMu dari lilitan hutang dan penindasan orang.",
+				"keterangan": "Doa Agar Terhindar Dari Kesulitan dan Kesusahan"
+			},
+			{
+				"id": 9,
+				"text": "رَبَّنَآ اٰتِنَا مِنْ لَّدُنْكَ رَحْمَةً وَّهَيِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+				"translation": "Ya Tuhan kami, berikanlah rahmat kepada kami dari sisi-Mu dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami ini.",
+				"keterangan": "Doa Mohon Dimudahkan Dalam Segala Urusan"
+			},
+			{
+				"id": 10,
+				"text": "رَبَّنَا آَتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآَخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+				"translation": "Ya Allah, berikan kami kebaikan di dunia dan kebaikan di akhirat. Lindungilah kami dari siksa api neraka.",
+				"keterangan": "Doa Minta Kebaikan Dunia Akhirat"
+			}
+		]
+	}
+]

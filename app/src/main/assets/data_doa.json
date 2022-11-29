@@ -1,0 +1,226 @@
+[
+	{
+		"id" : 1,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Qunut (Sholat Subuh Sendiri)",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّهُمَّ اهْدِنِىْ فِيْمَنْ هَدَيْتَ وَعَافِنِى فِيْمَنْ عَافَيْتَ وَتَوَلَّنِىْ فِيْمَنْ تَوَلَّيْتَ وَبَارِكْ لِىْ فِيْمَا اَعْطَيْتَ وَقِنِيْ شَرَّمَا قَضَيْتَ فَاِ نَّكَ تَقْضِىْ وَلاَ يُقْضَى عَلَيْكَ وَاِ نَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ وَلاَ يَعِزُّ مَنْ عَادَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ فَلَكَ الْحَمْدُ عَلَى مَا قَضَيْتَ وَاَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ وَصَلَّى اللهُ عَلَى سَيِّدَنَا مُحَمَّدٍ النَّبِيِّ اْلاُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّم",
+				"indo" : "Allahummahdini fii man hadait, wa aafinii fii man aafaiit, wa tawallanii fi man tawallaiit, wa baarik lii fiimaa a'thaiit. Wa qini syarra maa qadhaiit. Fa innaka taqdhii wa laa yuqdhaa 'alaiik. Innahu laa yadzillu maw waalaiit. Wa laa ya'izzu man 'aadaiit. Tabaarakta rabbanaa wa ta'aalait. Fa lakal-hamdu 'alaa maa qadhaiit, Astaghfiruka wa atuubu ilaik wa shallallahu 'ala sayyidina muhammadin nabiyyil ummuyyi wa 'alaa aalihii wa shahbihii wa sallam.",
+				"translate" : "Artinya : Ya Allah, berilah aku petunjuk seperti orang-orang yang telah Engkau beri petunjuk. Berilah aku kesehatan seperti orang yang telah Engkau beri kesehatan. Pimpinlah aku bersama-sama orang-orang yang telah Engkau pimpin. Berilah berkah pada segala apa yang telah Engkau pimpin. Berilah berkah pada segala apa yang telah Engkau berikan kepadaku. Dan peliharalah aku dari kejahatan yang Engkau pastikan. Karena sesungguhnya Engkau-lah yang menentukan dan tidak ada yang menghukum (menentukan) atas Engkau. Sesungguhnya tidaklah akan hina orang-orang yang telah Engkau beri kekuasaan. Dan tidaklah akan mulia orang yang Engkau musuhi. Maha Berkahlah Engkau dan Maha Luhurlah Engkau. Segala puji bagi-Mu atas yang telah Engkau pastikan. Aku mohon ampun dan tobat kepada Engkau. Semoga Allah memberi rahmat dan salam atas junjungan kami Nabi Muhammad SAW beserta seluruh keluarganya dan sahabatnya."
+			}
+		]
+	},
+	{
+		"id" : 2,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Qunut (Sholat Subuh Berjama'ah)",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّهُمَّ اهْدِنِىْ فِيْمَنْ هَدَيْتَ وَعَافِنِى فِيْمَنْ عَافَيْتَ وَتَوَلَّنِىْ فِيْمَنْ تَوَلَّيْتَ وَبَارِكْ لِىْ فِيْمَا اَعْطَيْتَ وَقِنِيْ شَرَّمَا قَضَيْتَ فَاِ نَّكَ تَقْضِىْ وَلاَ يُقْضَى عَلَيْكَ وَاِ نَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ وَلاَ يَعِزُّ مَنْ عَادَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ فَلَكَ الْحَمْدُ عَلَى مَا قَضَيْتَ وَاَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ وَصَلَّى اللهُ عَلَى سَيِّدَنَا مُحَمَّدٍ النَّبِيِّ اْلاُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ",
+				"indo" : "Allaahummahdinaa fii man hadaiit, wa aafinii fii man aafaiit, wa tawallanii fi man tawallaiit, wa baarik lii fiimaa a'thaiit. Wa qinii syarra maa qadhaiit. Fa innaka taqdhii wa laa yuqdhaa 'alaiik. Innahu laa yadzillu maw waalaiit. Wa laa ya'izzu man 'aadaiit. Tabaarakta rabbanaa wa ta'aalait. Fa lakal-hamdu 'alaa maa qadhaiit, Astaghfiruka wa atuubu ilaik wa shallallahu 'ala sayyidina muhammadin nabiyyil ummuyyi wa 'alaa aalihii wa shahbihii wa sallam.",
+				"translate" : "Artinya : Ya Allah, berilah kami petunjuk seperti orang-orang yang telah Engkau beri petunjuk. Berilah aku kesehatan seperti orang yang telah Engkau beri kesehatan. Pimpinlah aku bersama-sama orang-orang yang telah Engkau pimpin. Berilah berkah pada segala apa yang telah Engkau pimpin. Berilah berkah pada segala apa yang telah Engkau berikan kepadaku. Dan peliharalah aku dari kejahatan yang Engkau pastikan. Karena sesungguhnya Engkau-lah yang menentukan dan tidak ada yang menghukum (menentukan) atas Engkau. Sesungguhnya tidaklah akan hina orang-orang yang telah Engkau beri kekuasaan."
+			}
+		]
+	},
+	{
+		"id" : 3,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Hendak Berwudhu",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا ِللهِ تَعَالَى",
+				"indo" : "Nawaitul wudhuu-a liraf'll hadatsil ashghari fardhal lilaahi ta'aalaa.",
+				"translate" : "Artinya : Saya niat berwudhu untuk menghilangkan hadast kecil fardhu (wajib) karena Allah ta'ala"
+			}
+		]
+	},
+	{
+		"id" : 4,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Setelah Berwudhu",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَشْهَدُاَنْ لَااِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَاشَرِيْكَ لَهُ. وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِىْ مِنَاالتَّوَّابِيْنَ، وَجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ، وَجْعَلْنِىْ مِنْ عِبَادِكَ الصَّالِحِيْن",
+				"indo" : "Asyhadu allaa ilaaha illallah wahdahu laa syariikalahu. Wa asyhadu anna Muhammadan’abduhu wa rasuuluhu Allahumma-j alnii minattabinna waj alnii minal mutathohiirina waj alnii min ‘ibadatishalihin.",
+				"translate" : "Artinya : Saya bersaksi tiada Tuhan melainkan Allah Yang Esa, tiada sekutu bagi-Nya. Dan saya bersaksi bahwa Nabi Muhammad adalah hamba-Nya dan utusan-Nya. Yaa Allah jadikanlah saya orang yang ahli taubat, dan jadikalah saya orang yang suci, dan jadikanlah saya dari golongan hamba-hamba Mu yang shaleh."
+			}
+		]
+	},
+	{
+		"id" : 5,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Setelah Adzan",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ اِنَكَ لاَ تُخْلِفُ اْلمِيْعَاد",
+				"indo" : "Allahumma rabba haadzihid da'watit taammah. Wash shalaatil qaa-imah. Aati muhammadal wasiilata wal fadhiilah, wab'atshu maqoomam mahmuudal ladzii wa'adtahu innaka la tukhliful mi'ad",
+				"translate" : "Artinya : Ya Allah, Tuhan yang memiliki panggilan ini, yang sempurna dan memiliki salat yang didirikan. Berilah Nabi Muhammad wasilah dan keutamaan, serta kemuliaan dan derajat yang tinggi, dan angkatlah ia ke tempat yang terpuji sebagaimana yang Engkau telah janjikan."
+			}
+		]
+	},
+	{
+		"id" : 6,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Hendak Bepergian",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّابُعْدَهُ اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِى السَّفَرِوَالْخَلِيْفَةُفِى الْاَهْلِ",
+				"indo" : "Allahumma hawwin ‘alainaa safaranaa hadzaa waatwi ‘annaa bu’dahu. Allahumma antashookhibu fiissafari walkholiifatu fiil ahli.",
+				"translate" : "Artinya : Ya Allah, mudahkanlah kami bepergian ini, dan dekatkanlah kejauhannya. Ya Allah yang menemani dalam bepergian, dan Engkau pula yang melindungi keluarga."
+			}
+		]
+	},
+	{
+		"id" : 7,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Saat Berkendara",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هذَاوَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلى رَبِّنَا لَمُنقَلِبُونَ",
+				"indo" : "Subhaanalladzii sakhkhara lanaa hadzaa wamaa kunnaa lahuu muqriniin, wa innaa ilaa rabbinaa lamunqolibuun.",
+				"translate" : "Artinya : Maha Suci Tuhan yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami."
+			}
+		]
+	},
+	{
+		"id" : 8,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa saat Keluar Rumah untuk Bepergian",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "بِسْمِ اللَّهِ ، تَوَكَّلْتُ عَلَى اللَّهِ ، وَلا حَوْلَ وَلا قُوَّةَ إِلاَّ بِاللَّه",
+				"indo" : "Bismilaahi tawakkaltu ‘alallahi wa laa hawla wa laa quwwata illaa billaahi.",
+				"translate" : "Artinya : Dengan menyebut nama Allah, aku menyerahkan diriku pada Allah dan tidak ada daya dan kekuatan selain dengan Allah saja."
+			}
+		]
+	},
+	{
+		"id" : 9,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Berangkat Bekerja",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّهُمَّ ارْزُقْنِيْ رِزْقًا حَلاَلاً طَيِّباً, وَاسْتَعْمِلْنِيْ طَيِّباً. اَللّهُمَّ اجْعَلْ اَوْسَعَ رِزْقِكَ عَلَيَّ عِنْدَ كِبَرِ سِنِّيْ وَانْقِطَاعِ عُمْرِيْ. اَللّهُمَّ اكْفِنِيْ بِحَلاَلِكَ عَنْ حَرَامِكَ, وَاَغِْننِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ. اَللّهُمَّ اِنِّيْ اَسْأَلُكَ رِزْقًا وَاسِعًا نَافِعًا. اَللّهُمَّ اِنِّيْ اَسْأَلُكَ نَعِيْمًا مُقِيْمًا, اَلَّذِيْ لاَ يَحُوْلُ وَلاَ يَزُوْلُ",
+				"indo" : "Allahummarzuqnii rizqan halaalan thayyibaa, wasta'milnii thayyibaa. Allahummaj'al ausa'a rizqika 'alayya 'inda kibari sinnii wanqithaa'i 'umrii. Allahummakfinii bihalaalika 'an haraamika wa aghninii bifadhlika 'amman siwaaka. Allahumma in nii as-aluka rizqan waasi'an naafi'an. Allahumma innii as-alukan na'iimaan muqiiman, alladzii laa yahuulu wa laa yazuulu",
+				"translate" : "Artinya : Ya Allah, berilah padaku rezki yang halal dan baik, serta pakaikanlah padaku segala perbuatan yang baik. Ya Tuhanku, jadikanlah oleh-Mu rezekiku itu paling luas ketika tuaku dan ketika lemahku. Ya Allah, cukupkanlah bagiku segala rezki-Mu yang halal daripada yang haram dan kayakanlah aku dengan karunia-Mu dari yang lainnya. Ya Allah, aku mohonkan pada-Mu rezeki yang luas dan berguna. Ya Allah, aku mohonkan pada-Mu ni'mat yang kekal yang tidak putus-putus dan tidak akan hilang."
+			}
+		]
+	},
+	{
+		"id" : 10,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Memulai Pekerjaan",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّٰهمﱠ إِنِّي اَسْئَلُكَ مِنْ خَيْرِ هٰذَا الْعَمَلِ وَخَيْرِ مَا فِيْهِ  وَأَعُوْذُ بِكَ منْ شَرِّ هٰذَا الْعَمَلِ وَشَرِّ مَا فِيْهِ  إِنَّكَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+				"indo" : "Allahumma innii asaluka min khairi hadzal amali wa khairi maa fiihi, wa'audzubika min syarri haadzal amali wasyarri maa fiihi innaka 'alaakulli syaiin qadiir.",
+				"translate" : "Artinya : Ya Allah. Aku memohon padaMu kebaikan pekerjaan ini dan segala kebaikan yang ada di dalamnya, dan aku berlindung pada Mu daripada keburukan pekerjaan ini dan segala keburukan yang ada di dalamnya. Sesungguhnya di atas segala sesuatu itu Engkaulah yang maha berkuasa menentukannya."
+			}
+		]
+	},
+	{
+		"id" : 11,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Selesai Bekerja",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّهُمَّ اِنِّيْ اَعُوْذُ بِكَ اَنْ اَضِلّ اَوْ أُضَلَّ اَوْ اَزِلَّ اَوْ أَظْلَمَ اَوْ أَجْهَلَ اَوْ يُجْهَلَ عَلَيَّ",
+				"indo" : "Allahuma innii a'uudzubika an adhilla, au udhalla, au azilla, au adzlama, au ajhala, au yujhala 'alayya.",
+				"translate" : "Artinya : Ya Allah, sungguh aku berlindung kepada-Mu agar tidak tersesat atau disesatkan atau aku tergelincir atau digelincirkan atau aku berbuat dzalim atau didzalimi atau aku berbuat bodoh atau dibodohi."
+			}
+		]
+	},
+	{
+		"id" : 12,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Masuk Masjid",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
+				"indo" : "Allahummaf tahlii abwaaba rohmatik.",
+				"translate" : "Artinya : Ya Allah, bukalah untukku pintu-pintu rahmat-Mu."
+			}
+		]
+	},
+	{
+		"id" : 13,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Keluar Masjid",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+				"indo" : "Allahumma innii asaluka min fadlik.",
+				"translate" : "Artinya : Ya Allah, sesungguhya aku memohon fadilah kepada-Mu."
+			}
+		]
+	},
+	{
+		"id" : 14,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Untuk Anak Agar Sholeh & Sholehah",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللَّهُمَّ اجْعَلْ أَوْلَادَنَا أَوْلَادًا صَالِحِيْنَ حَافِظِيْنَ لِلْقُرْآنِ وَالسُّنَّةِ فُقَهَاءَ فِى الدِّيْنِ مُبَارَكًا حَيَاتُهُمْ فِى الدُّنْيَا وَاْلآخِرَةِ",
+				"indo" : "Allahummaj ‘al awladana awladan sholihiin haafizhiina lil qur’ani wa sunnati fuqoha fid diin mubarokan hayatuhum fid dun-ya wal akhirah.",
+				"translate" : "Artinya : Ya Allah, jadikanlah anak-anak kami anak yang sholih sholihah, orang-orang yang hafal Alquran dan sunnah, orang-orang yang faham dalam agama dibarokahi kehidupan mereka di dunia dan di akhirat."
+			}
+		]
+	},
+	{
+		"id" : 15,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa untuk Anak Agar Rajin Beribadah",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+				"indo" : "Rabbij’alni muqimas shalati wa min dzurriyati rabbana wa taqabbal du’a.",
+				"translate" : "Artinya : Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap mengerjakan sholat, Ya Tuhan kami, perkenankanlah do'aku."
+			}
+		]
+	},
+	{
+		"id" : 16,
+		"message" : "data has been loaded",
+		"status" : "1",
+		"title" : "Doa Agar Anak Tercegah dari Zina",
+		"data" : [
+			{
+				"id" : 1,
+				"arabic" : "اَللّٰهُمَّ اغْفِرْ ذَنْبَهُ وَطَهِّرْ قَلْبَهُ وَحَصِّنْ فَرْجَهُ",
+				"indo" : "Allohummaghfir dzanbahu wa thohhir qolbahu wa hashshin farjahu.",
+				"translate" : "Artinya : Ya Allah ampunilah dosanya, sucikanlah hatinya, dan jagalah kemaluannya."
+			}
+		]
+	}
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:project="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_menu_2"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="NamespaceTypo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp">
+            <Button
+                android:id="@+id/bacaQuran"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round"
+                android:text="Baca Al Qur'an"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp">
+            <Button
+                android:id="@+id/doaSetelahSholat"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round"
+                android:text="Do'a Setelah Sholat"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp">
+            <Button
+                android:id="@+id/kumpulanDoa"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round"
+                android:text="Kumpulan Do'a"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp">
+            <Button
+                android:id="@+id/dzikirSetelahSholat"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round"
+                android:text="Dzikir Setelah Sholat"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
